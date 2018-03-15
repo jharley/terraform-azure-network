@@ -1,0 +1,6 @@
+rg_name= "rg_demo"
+rg_location = "West US 2"
+vn_name = "vn_demo"
+vn_address_space = "10.0.0.0/16"
+sb_name  = "sb_demo"
+sb_address_prefix    = "10.0.2.0/24"
